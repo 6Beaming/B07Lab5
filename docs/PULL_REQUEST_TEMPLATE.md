@@ -1,9 +1,9 @@
 ☑️Pull request>>>
 
-Reference to related issue:
+🥖Reference to related issue:
 
 
-Description of changes:
+🎨Description of changes:
   New features:
 
   Bug fixed:
@@ -11,4 +11,4 @@ Description of changes:
   Testing:
 
 
-@mention person /*to review changes/*
+🍎@mention person /*to review changes/*
