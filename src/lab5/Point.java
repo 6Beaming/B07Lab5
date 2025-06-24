@@ -1,3 +1,4 @@
+package lab5;
 public class Point {
 	double x;
 	double y;
