@@ -1,21 +1,28 @@
-☑️Pull request>>>
+## Description
+What does this pull request do?
+→ 
 
-🥖Reference to related issue:
+## Type of Change
+What kind of change or merge is this? 
+→ 
 
+## Self-Review Questions
+Have you tested your test cases?  
+→ 
 
-🎨Description of changes:
-  New features:
+Do the test cases cover all major methods in the shape class?  
+→ 
 
-  Bug fixed:
+Do the test names clearly describe what is being tested?  
+→ 
 
-  Testing:
+Have you added comments where needed?  
+→ 
 
-  Refactoring:
+Have you checked that all test cases pass?  
+→ 
 
-  Documentation:
+Any known issues?  
+→ 
 
-  Other:
-  
-
-
-🍎@mention person /*to review changes/*
+## Diff Output
