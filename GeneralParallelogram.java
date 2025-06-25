@@ -67,11 +67,10 @@ public class GeneralParallelogram {
 			return (k_AB*k_CD == -1);
 		}
 		//If AC and BD are diagonals 
-		else if (A.distance(B)==D.distance(C) && A.distance(D)==C.distance(B) && A.distance(C)!=B.distance(D)) {
+		else {
 			double k_AC = (A.y-C.y)/(A.x-C.x);
 			double k_BD = (D.y-B.y)/(D.x-B.x);
 			return (k_AC*k_BD == -1);
 		}
-		return false;
 	}
 }
