@@ -11,11 +11,6 @@ public class Point {
 		return Math.sqrt(Math.pow(x-other.x, 2) + Math.pow(y-other.y, 2));
 	}
 
-	public Point copy() {                 //deepcopy a point so reference dont stay the same 
-		return new Point(x,y);
-	}
-
-
 	@Override
 	public int hashCode() {
 		return (int)(3*x + 5*y);
